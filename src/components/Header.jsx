@@ -113,7 +113,7 @@ const inputProps ={
                   <img
                     src={behance_logo}
                     alt="Behance Logo"
-                    className="w-auto h-4"
+                    className="w-auto h-[40px]"
                   />
                   <div className="page-links lg:ml:8 hidden lg:block">
                     <ul className="flex item-center">
@@ -156,7 +156,7 @@ const inputProps ={
                         <img
                           src={adobe_cloude}
                           alt="Adobe Cloud"
-                          className="w-5 h-5"
+                          className="w-8 h-8"
                         ></img>
                       </div>
                       <a href="#">Free Trial</a>
@@ -165,7 +165,7 @@ const inputProps ={
                       <img
                         src={adobeLogo}
                         alt="Adobe Logo"
-                        className="w-5 h-5"
+                        className="w-6 h-6"
                       ></img>
                       <a href="#" className="p1-1 font-bold text-black text-sm">
                         Adobe
