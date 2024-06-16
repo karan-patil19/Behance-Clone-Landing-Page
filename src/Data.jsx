@@ -22,13 +22,14 @@ import image14 from "./assets/images/image14.jpg"
 import image15 from "./assets/images/images15.jpeg"
 import behanceLogo from "./assets/images/behance.png"
 import adobe from "./assets/images/adobe.png"
+import cloud from "./assets/images/creative-cloud.png"
 
 
 
 
 export const  behance_logo = behanceLogo;
 
-export const  adobe_cloude = image1;
+export const  adobe_cloude = cloud;
 
 export const adobeLogo= adobe;
 
