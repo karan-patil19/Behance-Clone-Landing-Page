@@ -22,15 +22,15 @@ import image14 from "./assets/images/image14.jpg"
 import image15 from "./assets/images/images15.jpeg"
 import behanceLogo from "./assets/images/behance.png"
 import adobe from "./assets/images/adobe.png"
-import adobecloud from "./assets/images/cloude.png"
 
 
 
-export const  behance_logo = image1;
+
+export const  behance_logo = behanceLogo;
 
 export const  adobe_cloude = image1;
 
-export const adobeLogo= image1;
+export const adobeLogo= adobe;
 
 
 export const searchType = [
