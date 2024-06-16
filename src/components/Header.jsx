@@ -223,7 +223,7 @@ const inputProps ={
                     className="tools-item flex items-center border rounded-md px-3 py-2 mx-1"
                     key={tools.tags}
                   >
-                    <div className="t-icon">{tools.tagsIcon}</div>
+                    <div className="t-icon">{tools.tagIcon}</div>
                     <div className="tname px-2">
                       <p className="text-sm font-bold"> {tools.tags}</p>
                     </div>
