@@ -26,11 +26,11 @@ import adobecloud from "./assets/images/cloude.png"
 
 
 
-export const  behance_logo = behanceLogo;
+export const  behance_logo = image1;
 
-export const  adobe_cloude = adobecloud;
+export const  adobe_cloude = image1;
 
-export const adobeLogo= adobe;
+export const adobeLogo= image1;
 
 
 export const searchType = [
