@@ -7,8 +7,8 @@ This project is a simplified clone of the Behance landing page, vreated as part 
 # I compled total Three task including one bonus task
 
 ###  Search with Autocompletion
--A search bar at the top of the page allows users to type a keyword.
--The application provides autocomplete suggestions at the user types.
+- A search bar at the top of the page allows users to type a keyword.
+- The application provides autocomplete suggestions at the user types.
 
 ### Sort by Category
 - A category dropdown menu allows user to sort projects by different categories.
