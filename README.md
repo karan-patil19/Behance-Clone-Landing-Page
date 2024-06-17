@@ -1,4 +1,4 @@
-#Behance Clone Landing Page
+# Behance Clone Landing Page
 
 This project is a simplified clone of the Behance landing page, vreated as part of an interview task at 'Simpplr'.The Focus is on implementing key Features such as search with autocomplete, sorting by category, and liking image[this was bonus feature]
 
