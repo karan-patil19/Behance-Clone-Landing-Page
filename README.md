@@ -1,63 +1,54 @@
-# Behance Clone Landing Page
+#Behance Clone Landing Page
 
-This project is a simplified clone of the Behance landing page, created as part of an interview task. The focus is on implementing key features such as search with autocompletion, sorting by category, and liking images.
+This project is a simplified clone of the Behance landing page, vreated as part of an interview task at 'Simpplr'.The Focus is on implementing key Features such as search with autocomplete, sorting by category, and liking image[this was bonus feature]
 
 ## Features
 
-### Search with Autocompletion
-- A search bar at the top of the page allows users to type a keyword.
-- The application provides autocomplete suggestions as the user types.
+# I compled total Three task including one bonus task
+
+###  Search with Autocompletion
+-A search bar at the top of the page allows users to type a keyword.
+-The application provides autocomplete suggestions at the user types.
 
 ### Sort by Category
-- A category dropdown menu allows users to sort projects by different categories.
+- A category dropdown menu allows user to sort projects by different categories.
 
-### Like an Image
+### Like an Image [Bonus Feature]
 - Each image has a "like" button.
-- Clicking the button simulates liking the image.
+- Clicking the bottom simulates liking the image.
 
 ## Technologies Used
 - **React**: For building the user interface.
-- **Vite**: As the build tool for faster development.
-- **Tailwind CSS**: For styling the components.
-- **React Icons**: For iconography.
+- **Vite**: As the build tool for faster devlopment.
+- **Tailwind CSS**: For styling in the components.
+- **React Icons**: For iconography
 - **PropTypes**: For type checking of the props.
 
-## Installation
+## Installation 
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/karan-patil19/Behance-Clone-Landing-Page.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd Behance-Clone-Landing-Page
-    ```
+   ```bash
+   git clone https://github.com/karan-patil19/Behance-Clone-Landing-Page.git
+   ```
+2.Navigate to the project directory:
+```bash
+cd Behance-Clone-Landing-Page
+```
 3. Install dependencies:
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
+
 4. Start the development server:
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
-## Deployment
+## Live Demo
 
-This project is deployed on Vercel. To deploy your own version:
+Check out the live demo of the project[here](https://behance-clone-landing-page-2wni.vercel.app/).
 
-1. Connect your GitHub repository to Vercel.
-2. Set up your project and deploy.
 
-## Troubleshooting
-
-If you encounter security warnings, ensure to:
-1. Verify your site in [Google Search Console](https://search.google.com/search-console).
-2. Check and resolve any security issues listed.
-3. Request a review from Google after resolving any issues.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 
 
