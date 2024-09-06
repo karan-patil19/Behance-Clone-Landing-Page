@@ -118,7 +118,7 @@ const inputProps ={
                   <div className="page-links lg:ml:8 hidden lg:block">
                     <ul className="flex item-center">
                       <li className="mx-3 font-medium text-md active">
-                        <a href="#">For You </a>
+                        <a href="#">For chirag </a>
                       </li>
                       <li className="mx-3 font-medium text-md active">
                         <a href="#">Discover </a>
